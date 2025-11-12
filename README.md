@@ -1,7 +1,7 @@
 # Frames-for-movies
-**Movie Frame Extractor – README
-****1. What this program does
-**
+Movie Frame Extractor – README
+1. What this program does
+
 This batch script goes through all video files in the current folder and:
 
 Looks for files with these extensions:
